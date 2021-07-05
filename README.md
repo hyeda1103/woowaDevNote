@@ -21,4 +21,6 @@
 - 6월 17일 (6차시) [상태와 변화에 대하여](./0617.md)
 
 - 6월 22일 (7차시) [미니 리덕스 만들기](./0622.md)
-    - 🔗 [미니 리덕스 구경가기](https://codesandbox.io/embed/loving-mendel-j3fzm?fontsize=14&hidenavigation=1&theme=light)
+    - 🔗 [우아한 테크러닝에서 구현한 미니 리덕스 구경가기](https://codesandbox.io/embed/loving-mendel-j3fzm?fontsize=14&hidenavigation=1&theme=light)
+    - 🔗 [바닐라 JS로 만든 미니 리덕스로 만든 미니 카운터 구경가기](https://codesandbox.io/embed/distracted-worker-jhovj?fontsize=14&hidenavigation=1&theme=dark)
+
