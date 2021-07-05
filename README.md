@@ -12,7 +12,8 @@
 - 6월 3일 (2차시) [그 기술을 왜 선택했어요?](./0603.md)
 
 - 6월 8일 (3차시) [엔지니어스러운 사람](./0608.md)
-
+    - 🔗[Complete Auth System (MERN with TS)](https://github.com/hyeda1103/Complete-Auth-system-with-TypeScript)
+    
 - 6월 10일 (4차시) [안다는 것은 무엇일까 + 스타트업의 꽃 피봇](./0610.md)
 
 - 6월 15일 (5차시) [그 컴포넌트, 정말 재활용할 수 있나요?](./0615.md)
@@ -20,3 +21,4 @@
 - 6월 17일 (6차시) [상태와 변화에 대하여](./0617.md)
 
 - 6월 22일 (7차시) [미니 리덕스 만들기](./0622.md)
+    - 🔗 [미니 리덕스 구경가기](https://codesandbox.io/embed/loving-mendel-j3fzm?fontsize=14&hidenavigation=1&theme=light)
